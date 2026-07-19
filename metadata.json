@@ -1,0 +1,6 @@
+{
+  "name": "Kerala AI Camera Tracker",
+  "description": "Safety compliance companion tracking MVD AI cameras across Kerala, encouraging helmet and seatbelt usage with real-time proximity alerts and safety guidelines.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
