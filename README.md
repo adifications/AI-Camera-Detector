@@ -4,6 +4,9 @@
 
 Developed by ** A Aditya Nair** ([@adifications](https://github.com/adifications))
 
+[![Live Demo](https://img.shields.io/badge/status-live-brightgreen.svg?style=for-the-badge)](https://dailybuglewatch.vercel.app)
+**Live App URL:** [ai-camera-detector.onrender.com](https://ai-camera-detector.onrender.com/)
+
 [![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-6-646cff?logo=vite&logoColor=white)](https://vitejs.dev/)
