@@ -2,7 +2,7 @@
 
 > Real-time safety compliance and AI traffic surveillance radar for Kerala roads. Built to promote defensive driving, seatbelt & helmet compliance, and speed limit adherence.
 
-Developed by **Aditya Nair** ([@adifications](https://github.com/adifications))
+Developed by ** A Aditya Nair** ([@adifications](https://github.com/adifications))
 
 [![React](https://img.shields.io/badge/React-19-61dafb?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
